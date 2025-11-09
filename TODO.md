@@ -8,3 +8,5 @@
 - [x] Step 6: Add and commit all files
 - [x] Step 7: Add GitHub remote repository
 - [x] Step 8: Push to GitHub
+- [x] Step 9: Create and add README.md
+- [x] Step 10: Push README.md to GitHub
